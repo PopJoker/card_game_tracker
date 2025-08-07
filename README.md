@@ -55,8 +55,8 @@
 
 如有任何問題或建議，歡迎聯絡我：
 
-- 電子郵件: your.email@example.com  
-- Line ID: your_line_id  
-- 電話: 09xx-xxx-xxx  
+- 電子郵件: deadgod97004@gmail.com
+- 姓名：Maverick Tu  
 
 謝謝使用，祝您遊戲愉快！
+
