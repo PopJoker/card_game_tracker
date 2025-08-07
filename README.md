@@ -14,6 +14,10 @@
 
 ## 使用步驟
 
+### 0. 登入網址
+
+  https://popjoker.github.io/card-tracker/
+
 ### 1. 設定玩家
 
 - 輸入玩家人數後，按鍵盤 Enter 或「完成」按鈕  
@@ -59,5 +63,6 @@
 - 姓名：PopJoker
 
 謝謝使用，祝您遊戲愉快！
+
 
 
