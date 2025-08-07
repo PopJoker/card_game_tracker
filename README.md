@@ -16,7 +16,8 @@
 
 ### 0. 登入網址
 
-  https://popjoker.github.io/card-tracker/
+👉 點擊網址開啟計分器：  
+[https://popjoker.github.io/card-tracker/](https://popjoker.github.io/card-tracker/)
 
 ### 1. 設定玩家
 
@@ -63,6 +64,7 @@
 - 姓名：PopJoker
 
 謝謝使用，祝您遊戲愉快！
+
 
 
 
